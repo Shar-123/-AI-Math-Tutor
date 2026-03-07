@@ -1,0 +1,10 @@
+{
+  "name": "ai-math-tutor",
+  "version": "1.0.0",
+  "description": "AI Math Tutor for Nan Mudhalvan SkillWallet project",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "dependencies": {}
+}
